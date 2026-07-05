@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Leaders README
 
 ## Table of Contents
