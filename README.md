@@ -7,7 +7,7 @@
 3. [What is my role?](#what-is-my-role)
 4. [When I work](#when-i-work)
 5. [Where I work](#where-i-work)
-6. [Communication](#communication)
+6. [How I like to communicate](#how-i-like-to-communicate)
 7. [Feedback](#feedback)
 8. [What's important to me](#whats-important-to-me)
 9. [My failure modes and what I'm working on](#my-failure-modes-and-what-im-working-on)
@@ -54,7 +54,7 @@ As with most of us, I love working from home. I live over an hour away from our 
 
 As I said, I like to be flexible, so it's not that rare you'll find I work from all sorts of places - on walks, in parks, at coffee shops, on beaches, whilst travelling overseas, or at a camping site. You will always find me online on Slack because it travels with me on my phone. I do not expect or encourage you to have Slack on your phone, but I do expect responses within reason during your work hours.
 
-## Communication
+## How I like to communicate
 
 **I value clear, effective communication more highly than technical proficiency.** That might sound backwards from someone who still loves being on the tools, but I've seen far more go wrong from unclear or late communication than from any gap in technical skill. Communicate well and you'll build trust with me quickly.
 
@@ -108,6 +108,7 @@ These are the philosophies I lead by. If you understand them, most of my decisio
 - **Action over planning.** I optimise for action, not planning. A plan is useful when it gets us moving; beyond that, I'd rather ship a first iteration, learn from it, and adjust than keep refining a document. Perfect information never arrives, and momentum teaches faster than analysis. When we do plan, we plan just enough to start safely.
 - **Autonomy and agency.** I like the autonomy and space to deliver, and I want the same for you: be your own agent, and work the way that suits you best. I'll be explicit about the outcome and the constraints, then get out of the way on the how. The flip side of autonomy is keeping each other informed - that's what lets me give you room without either of us being surprised.
 - **Systems thinking.** If we have to do something regularly, it's worth investing upfront effort in a tool or platform that makes it easier every time after. I apply this to my own work too - most of my leadership rituals are systems I've built and keep refining. The question I keep coming back to: are we solving this one instance, or the class of problem?
+- **Growth mindset.** I believe capability is built, not fixed - mine and yours. I judge people by their trajectory and how they respond to a challenge, not by their title or years served. Getting something wrong is part of learning it; what matters is what you do next. Expect me to invest in your growth and put stretch in front of you - and expect to see me working on my own gaps just as openly.
 - **Transparency and openness.** I work openly and honestly. My role means I sometimes know sensitive information I can't share, but as much as possible I'll be open with you about why we're doing things, what I'm thinking, what I'm working on, and where I'm headed. I won't hide behind my title. I expect the same openness from you: disagree with me, and bring up the things on your mind.
 - **Team sport.** I've always been a team sport person - you'll have seen the list above. Team sport taught me that the team wins, not individuals; that every role matters, big or small; and that you pass to the player in the better position. When the squad plays like that and we succeed together, it's my favourite feeling in the world.
 - **Not taking myself too seriously.** I'm pretty laid back and chilled. I like having fun at work, and I believe in bringing my whole self to it - what you see is who I am. The work is serious; I don't have to be. I want the same for you: come as yourself, not as a work persona.
