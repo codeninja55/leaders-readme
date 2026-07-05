@@ -1,0 +1,7 @@
+title: Leaders README
+description: How I lead and how to work with me
+theme: jekyll-theme-primer
+exclude:
+  - NOTES.md
+  - CLAUDE.md
+  - LICENSE
