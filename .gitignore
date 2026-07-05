@@ -2,6 +2,10 @@
 .claude/settings.local.json
 CLAUDE.local.md
 
+# Private working scratch - never publish to the public repo
+NOTES.md
+skills-lock.json
+
 # macOS
 .DS_Store
 
