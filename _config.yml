@@ -1,16 +1,7 @@
 title: Leaders README
 description: How I lead and how to work with me
-locale: en-AU
-
-remote_theme: "mmistakes/minimal-mistakes@4.28.0"
-minimal_mistakes_skin: default
-
-author:
-  name: Andru Manuel-Che
-
-plugins:
-  - jekyll-remote-theme
-  - jekyll-include-cache
+theme: jekyll-theme-tactile
+show_downloads: false
 
 exclude:
   - NOTES.md
