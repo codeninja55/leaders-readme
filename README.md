@@ -1,21 +1,12 @@
 ---
-layout: default
+layout: single
 permalink: /
+toc: true
+toc_label: Contents
+toc_sticky: true
 ---
 
 # Leaders README
-
-## Table of Contents
-
-1. [Why this exists](#why-this-exists)
-2. [Intro](#intro)
-3. [What is my role?](#what-is-my-role)
-4. [When I work](#when-i-work)
-5. [Where I work](#where-i-work)
-6. [How I like to communicate](#how-i-like-to-communicate)
-7. [Feedback](#feedback)
-8. [What's important to me](#whats-important-to-me)
-9. [My failure modes and what I'm working on](#my-failure-modes-and-what-im-working-on)
 
 ## Why this exists
 
