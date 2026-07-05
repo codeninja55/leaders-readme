@@ -1,18 +1,18 @@
 ---
 layout: single
+title: "Leaders README"
 permalink: /
+classes: wide
 toc: true
 toc_label: Contents
 toc_sticky: true
 ---
 
-# Leaders README
-
 ## Why this exists
 
 This is a guide to working with me - what I value, how I operate, and what you can expect from me. Writing it forced me to examine how I actually lead, and that thinking was worth more than the document itself. What you're reading is the honest output, public on purpose, and never finished. If something here doesn't match what you experience working with me, tell me - correcting this document is feedback I will always take.
 
-## Intro
+## Who am I?
 
 Hi. I'm Andru Manuel-Che.
 
