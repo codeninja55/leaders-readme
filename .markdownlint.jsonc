@@ -1,0 +1,9 @@
+{
+  "default": true,
+  // Prose repo: lines wrap in rendering, hard length limits fight drafting
+  "MD013": false,
+  // The public README may embed HTML (badges, details blocks) when useful
+  "MD033": false,
+  // Same heading text is fine under different parent sections
+  "MD024": { "siblings_only": true }
+}

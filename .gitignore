@@ -1,0 +1,15 @@
+# Claude Code local config
+.claude/settings.local.json
+CLAUDE.local.md
+
+# macOS
+.DS_Store
+
+# Research-corpus fingerprints: third-party copyrighted material must never
+# enter this public repo (see CLAUDE.md red line; pre-commit hook enforces too)
+sources/
+council-*.md
+*-raw.*
+*-jina.*
+*.pdf
+*.html
